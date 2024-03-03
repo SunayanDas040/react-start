@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.active-link {
+  color: #ff4500; /* Set your desired active link color */
+  font-weight: bold; /* Add any additional styles for the active link */
+}
